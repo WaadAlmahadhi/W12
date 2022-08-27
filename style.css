@@ -1,0 +1,64 @@
+body
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 15%;
+    
+}
+#logo
+{
+    height: 100px;
+    margin-left: 28%;
+
+}
+#fhead
+{
+    margin-left: 28%;
+    margin-top: 10px;
+}
+#life
+{
+    font-family: 'Dancing Script', cursive;
+    color: aliceblue;
+    background-color: skyblue;
+    padding: 10px;
+}
+.content
+{
+    margin-top: 40px;
+}
+.card
+{
+    margin-bottom: 30px;
+}
+#scard
+{
+    margin-top: 10px;
+}
+#scard img
+{
+    padding-right: 20px;
+}
+
+#tag
+{   
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: auto;
+    
+}
+#tag h5
+{
+    background-color: rgb(190, 219, 231);
+    margin-left: 3px;
+}
+ #tag h5:hover
+{
+    background-color:skyblue;   
+}
+#tag span
+{
+    background-color: black;
+    color:white ;
+}
+
